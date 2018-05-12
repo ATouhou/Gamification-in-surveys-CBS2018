@@ -14,7 +14,7 @@
 ## Installation
 
 > Import db-structure.sql into your database <br> 
-> To validate our published results import db-structure-and-data.sql 
+> To validate our published results import db-data.csv   <br> Please note that IP, Names and Email has been stripped from the uploaded data set for obvious reasons. 
 
 ## Requirements
 
